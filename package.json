@@ -6,7 +6,7 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/r-e-y-a-n/reyan.git"
+    "url": "git+https://github.com/r-e-y-a-n/reyan-npm.git"
   },
   "keywords": [
     "reyan"
@@ -14,7 +14,7 @@
   "author": "reyan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/r-e-y-a-n/reyan/issues"
+    "url": "https://github.com/r-e-y-a-n/reyan-npm/issues"
   },
-  "homepage": "https://github.com/r-e-y-a-n/reyan#readme"
+  "homepage": "https://github.com/r-e-y-a-n/reyan-npm#readme"
 }
