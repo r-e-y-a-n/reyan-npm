@@ -1,0 +1,21 @@
+{
+  "name": "reyan",
+  "version": "0.0.57",
+  "description": "reyan.",
+  "main": "reyan.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r-e-y-a-n/reyan.git"
+  },
+  "keywords": [
+    "reyan"
+  ],
+  "author": "reyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/r-e-y-a-n/reyan/issues"
+  },
+  "homepage": "https://github.com/r-e-y-a-n/reyan#readme"
+}
