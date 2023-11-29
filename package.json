@@ -1,10 +1,9 @@
 {
   "name": "reyan",
-  "version": "0.0.57",
+  "version": "0.1.0",
   "description": "reyan.",
   "main": "reyan.js",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/r-e-y-a-n/reyan.git"
