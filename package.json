@@ -1,6 +1,6 @@
 {
   "name": "reyan",
-  "version": "0.1.58",
+  "version": "0.2.0",
   "description": "reyan.",
   "main": "dist/reyan.js",
   "module": "dist/reyan.mjs",
