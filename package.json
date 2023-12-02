@@ -1,21 +1,15 @@
 {
   "name": "reyan",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "reyan.",
-
-
   "main": "ges/reyan.js",
   "types": "ges/reyan.d.ts",
   "files": [
     "/ges"
   ],
-
-  
   "scripts": {
     "ges": "tsc"
   },
-
-  
   "repository": {
     "type": "git",
     "url": "git+https://github.com/r-e-y-a-n/reyan-npm.git"
