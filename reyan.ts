@@ -1,4 +1,4 @@
-function checkSac(naam){
+function checkSac(naam:string){
     if (naam.toLowerCase() === 'reyan'){
         return true
     } else{
@@ -6,4 +6,4 @@ function checkSac(naam){
     }
 }
 
-module.exports = checkSac;
+export default checkSac;
